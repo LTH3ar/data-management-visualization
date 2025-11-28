@@ -1,4 +1,5 @@
-# Report Structure
+# Report Structure for Diabetes Risk Factors Analysis
+
 ---
 
 ## **1. Introduction** (2-3 pages)
@@ -94,27 +95,7 @@
 
 ---
 
-## **5. Visualization Design & Best Practices** (2-3 pages)
-
-### 5.1 Design Decisions
-- Explain 2-3 visualization choices in depth:
-  - Why this chart type?
-  - Color palette rationale
-  - How it serves the analytical goal
-
-### 5.2 Dashboard/Story Concept (if applicable)
-- Information architecture
-- User interaction flow
-- Key performance indicators (KPIs) selected
-
-### 5.3 Accessibility & Clarity
-- How visualizations accommodate color-blind users
-- Text hierarchy and labeling strategy
-- Data-ink ratio considerations
-
----
-
-## **6. Key Findings & Insights** (2-3 pages)
+## **5. Key Findings & Insights** (2-3 pages)
 
 - **Synthesize** discoveries across all three datasets
 - Prioritize by impact or significance
@@ -123,26 +104,26 @@
 
 ---
 
-## **7. Recommendations** (1-2 pages)
+## **6. Recommendations** (1-2 pages)
 
-### 7.1 Practical Applications
+### 6.1 Practical Applications
 - For healthcare practitioners
 - For public health policy
 - For data collection improvements
 
-### 7.2 Future Research Directions
+### 6.2 Future Research Directions
 - Limitations that suggest next steps
 - Additional data sources that could enhance analysis
 
 ---
 
-## **8. Conclusion** (1 page)
+## **7. Conclusion** (1 page)
 - Summary of contribution
 - Reflection on data management and visualization approaches used
 
 ---
 
-## **9. References**
+## **8. References**
 - Academic citations
 - Dataset citations (proper attribution)
 - Methodology references
