@@ -30,7 +30,7 @@ World	OWID_WRL	2024	10.797292
 
 - Missing most of 2000 --> dropped
 
-- Missing 6 countries 2001 data --> dropped
+- Missing 6 countries 2011 data --> dropped
 Curacao	CUW			13.4
 Faroe Islands	FRO			5.3
 Greenland	GRL			4.3
