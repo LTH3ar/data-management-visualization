@@ -1,0 +1,13 @@
+test git:(main) ✗ python main.py                                                
+✓ Saved with 30 columns (added 8 features)
+
+New features summary:
+       Total_Risk_Score  Healthy_Lifestyle      SES_Index
+count     228890.000000      228890.000000  228890.000000
+mean           2.739962           0.231771       0.747083
+std            1.680130           0.421964       0.211287
+min            0.000000           0.000000       0.000000
+25%            1.000000           0.000000       0.614286
+50%            3.000000           0.000000       0.785714
+75%            4.000000           0.000000       0.928571
+max           10.000000           1.000000       1.000000
