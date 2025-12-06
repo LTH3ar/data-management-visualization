@@ -1,0 +1,27 @@
+============================================================
+DATA CLEANING REPORT
+Diabetes Health Indicators Dataset (BRFSS 2015)
+============================================================
+
+Date: 2025-12-05 11:14:12
+Input File: diabetes_binary_health_indicators_BRFSS2015.csv
+
+CLEANING STEPS:
+------------------------------------------------------------
+1. Original dataset: 253680 rows × 22 columns
+2. No missing values
+3. Duplicates found: 24206 rows (9.54%)
+4. Removed duplicates: 24206 rows
+5. Data types standardized
+6. Saved to: diabetes_binary_health_indicators_BRFSS2015_cleaned.csv
+
+============================================================
+FINAL DATASET SUMMARY
+============================================================
+Final shape: 229474 rows × 22 columns
+Rows removed: 24206
+Data reduction: 9.54%
+
+Diabetes Distribution:
+  No Diabetes (0): 194377 (84.71%)
+  Diabetes (1):    35097 (15.29%)
